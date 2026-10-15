@@ -1,0 +1,17 @@
+{
+  "name": "mobile-app-foundations",
+  "owner": { "name": "Muhammad Zaman", "url": "https://github.com/mirzazaman" },
+  "metadata": {
+    "description": "React Native / Expo foundations: safe areas, keyboard handling, app icons and splash screens.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "mobile-app-foundations",
+      "source": ".",
+      "description": "Rules, templates and checks that stop recurring React Native / Expo bugs: safe areas, keyboard handling, app icons and splash screens.",
+      "version": "1.0.0",
+      "keywords": ["react-native", "expo", "safe-area", "keyboard", "app-icon", "splash-screen"]
+    }
+  ]
+}
